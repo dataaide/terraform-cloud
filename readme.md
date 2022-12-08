@@ -1,1 +1,1 @@
-simple projet terraform avec backend terraform clous
+simple projet terraform avec backend terraform cloud
